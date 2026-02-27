@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">👩‍💻  Currently,I'm student at Impacta College of Technology,with a strong focus om data science and machine learning,while also developing skills in software development.</h4>
+<h4 align="left">👩‍💻  Currently,I'm student at Impacta College of Technology,with a strong focus on data science and machine learning,while also developing skills in software development.</h4>
 
 ###
 
